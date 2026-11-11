@@ -9,3 +9,4 @@
 * ⚡ **Web App Backend Engine:** Google Apps Script (`AKfycbxULOx4oIS3odP1V7W0BTGJfxzh1-iesTcrbbVNhMA9kRKQi9TZLKuZX846tCdCfqD4`)
 * 📦 **Core Source Code & Development (Private):** [https://github.com/mega-jinn/NLCS-DEV](https://github.com/mega-jinn/NLCS-DEV)
 * 🗄️ **Database:** Google Sheets NLCS Database (8 Sheets)
+
